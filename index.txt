@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 created new index file
 changes done by new main branch
+=======
+created new file index
+changes done in feture branch
+>>>>>>> feture/some-feture
